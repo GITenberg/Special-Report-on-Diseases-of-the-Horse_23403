@@ -1,0 +1,46 @@
+_repo: Special-Report-on-Diseases-of-the-Horse_23403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Michener, Charles B.
+    alias: Michener, Ch. B. (Charles B.)
+    birthdate: 1838
+    gutenberg_agent_id: '25828'
+    url: http://www.gutenberg.org/2009/agents/25828
+  - agent_name: United States. Bureau of Animal Industry
+    gutenberg_agent_id: '25825'
+    url: http://www.gutenberg.org/2009/agents/25825
+  - agent_name: Pearson, Leonard
+    birthdate: 1868
+    deathdate: 1909
+    gutenberg_agent_id: '25826'
+    url: http://www.gutenberg.org/2009/agents/25826
+  - agent_name: Huidekoper, Rush Shippen
+    birthdate: 1854
+    deathdate: 1901
+    gutenberg_agent_id: '25827'
+    url: http://www.gutenberg.org/2009/agents/25827
+  - agent_name: Harbaugh, W. H. (William Heyser)
+    alias: Harbaugh, William Heyser
+    birthdate: 1856
+    deathdate: 1897
+    gutenberg_agent_id: '25829'
+    url: http://www.gutenberg.org/2009/agents/25829
+description: ''
+gutenberg_bookshelf: Zoology
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- Diseases'
+- !lcc 'SF'
+title: Special Report on Diseases of the Horse
+url: http://www.gutenberg.org/ebooks/23403
